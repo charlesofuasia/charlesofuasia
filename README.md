@@ -10,3 +10,6 @@ I am very proficient in the following languages/technologies: C#, Python, JavaSc
 
 ## Connect With Me
 Connect with me on [LinkedIn](www.linkedin.com/in/charlesofuasia)
+
+## Projects
+ [Weather App](https://charlesofuasia.github.io/weatherapp/) 
